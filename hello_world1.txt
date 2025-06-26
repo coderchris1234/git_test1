@@ -1,1 +1,2 @@
 Getting started with the odin project
+Hoping to finish this to the end
